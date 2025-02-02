@@ -9,8 +9,13 @@ ping.py [-h] [-i I] [-w W] [-S S] [-t] [-n N] target_ip
 options:
 
 -h, --help  show this help message and exit
+
 -i I        TTL value
+
 -w W        Timeout in milliseconds to wait for each reply
+
 -S S        Source address to use
+
 -t          Ping until stopped (Ctrl+C to stop)
+
 -n N        Number of ICMP packets to be sent
