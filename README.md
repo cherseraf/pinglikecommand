@@ -1,4 +1,4 @@
-# pinglikecommand
+# A ping-like Command
 A ping-like script that sends ICMP packets to the specified IP address.
 
 Usage: ping.py [-h] [-i I] [-w W] [-S S] [-t] [-n N] target_ip
